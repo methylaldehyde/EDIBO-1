@@ -1,0 +1,12 @@
+    1  ls -lt
+    2  rm -rf EDIBO
+    3  rm -rf EDIBO_lokaala_mape
+    4  ls -lt
+    5  git clone https://github.com/tatusmatrix/EDIBO
+    6  cd EDIBO/
+    7  vim git-upload
+    8  ls -lt
+    9  rm *y.*
+   10  chmod 740 git-upload 
+   11  history 
+   12  history > history_20210319.txt
