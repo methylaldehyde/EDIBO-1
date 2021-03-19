@@ -1,1 +1,6 @@
-md - nozīmē markup document
+Shell noderīgas komandas:
+```
+git status
+git add
+git commit
+```
